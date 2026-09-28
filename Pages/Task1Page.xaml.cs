@@ -4,6 +4,7 @@ using System.Windows.Controls;
 namespace WpfVariant1.Pages
 {
     /// Задача 1. Проверка делимости двоичного числа на 15.
+    /// Разработал: Шереметов И.В., группа ПР-25.106
     public partial class Task1Page : Page
     {
         public Task1Page()
