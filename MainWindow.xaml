@@ -1,7 +1,7 @@
 <Window x:Class="WpfVariant1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Практическое занятие. Вариант 1" Height="650" Width="950"
+        Title="Практическое занятие. Вариант 1 (Шереметов И.В., ПР-25.106)" Height="650" Width="950"
         WindowStartupLocation="CenterScreen">
 
     <Grid>
@@ -13,7 +13,7 @@
 
         <!-- Заголовок главной формы: номер варианта -->
         <Border Grid.Row="0" Background="#2F4F6F">
-            <TextBlock Text="Вариант № 1"
+            <TextBlock Text="Вариант № 1. Шереметов Иван, группа ПР-25.106"
                        Foreground="White"
                        FontSize="24"
                        FontWeight="Bold"
